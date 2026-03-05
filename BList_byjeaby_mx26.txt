@@ -15,3 +15,20 @@
 0.0.0.0 tiktokcdn.com
 0.0.0.0 byteoversea.com
 0.0.0.0 ibytedtos.com
+doubleclick.net
+adservice.google.com
+ads.facebook.com
+ads.twitter.com
+ads.yahoo.com
+analytics.google.com
+connect.facebook.net
+pagead2.googlesyndication.com
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+api.tiktok.com
+tiktokcdn.com
+v16.tiktokcdn.com
+v19.tiktokcdn.com
+byteoversea.com
+ibytedtos.com
