@@ -1,18 +1,17 @@
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-api.tiktok.com
-tiktokcdn.com
-*.tiktokcdn.com
-tiktokv.com
-*.tiktokv.com
-byteoversea.com
-*.byteoversea.com
-ibyteimg.com
-*.ibyteimg.com
-bytefcdn-oversea.com
-*.bytefcdn-oversea.com
-snssdk.com
-*.snssdk.com
-muscdn.com
-*.muscdn.com
+0.0.0.0 doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 ads.facebook.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads.yahoo.com
+0.0.0.0 analytics.google.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 api.tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 v16.tiktokcdn.com
+0.0.0.0 v19.tiktokcdn.com
+0.0.0.0 byteoversea.com
+0.0.0.0 ibytedtos.com
